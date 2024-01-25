@@ -1,0 +1,18 @@
+<library>
+
+	<book>
+		<title> THREE MEN IN A BOAT</title>
+		<author>JEROME K JEROME</author>
+		<price>120</price>
+	</book>
+	<book>
+		<title> THE INVISIBLE MAN</title>
+		<author>ANONYMOUS</author>
+		<price>190</price>
+	</book>
+	<book>
+		<title> THREE MEN IN A COUCH</title>
+		<author>JEROME </author>
+		<price>69</price>
+	</book>
+</library>
